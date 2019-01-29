@@ -1,2 +1,1 @@
-testing
-testing 3
+[![Build Status](https://travis-ci.org/40338732/sem.svg?branch=master)](https://travis-ci.org/40338732/sem)
